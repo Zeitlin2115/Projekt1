@@ -1,0 +1,44 @@
+
+ * 
+ {     margin: 0;     box-sizing: border-box; }
+
+div{float:left;}
+header{
+height:80px;
+background-color:#e47a24;
+text-align:center;
+padding:20px;
+}
+
+
+
+#l{
+    padding: 30px;
+    width:25%;
+    height: 1300px;
+    background-color:#fc844d;
+    
+    }
+
+#p{
+    padding: 25px;
+width:75%;
+height:1300px;
+text-align: center;
+background-color:#fcc199;
+
+}
+
+
+ footer {
+                text-align: center;
+                padding: 3px;
+                background-color: rgb(253, 113, 67);
+                color: white;
+                width: 100%;
+                position: static;
+            
+              }
+           
+          
+
